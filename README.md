@@ -11,10 +11,10 @@ It comes with everything you need for serving optimization, model packaging, and
 BentoML’s comprehensive toolkit for AI application development provides a unified distribution format, which features a simplified AI architecture and supports deployment anywhere.
 
 ### Benefits:
-### Streamline distribution with a unified format
-### Build applications with any AI models
-### Inference optimization for AI applications
-### Build once. Deploy anywhere
+### -- Streamline distribution with a unified format
+### -- Build applications with any AI models
+### -- Inference optimization for AI applications
+### -- Build once. Deploy anywhere
 
 ### The following is the basic workflow of using the BentoML framework.
 
