@@ -7,7 +7,7 @@ It comes with everything you need for serving optimization, model packaging, and
 2. 🦾 OpenLLM: Self-hosting Large Language Models Made Easy
 3. ☁️ BentoCloud: Inference Platform for fast-moving AI teams
 
-### Why BentoML?
+### Why BentoML
 BentoML’s comprehensive toolkit for AI application development provides a unified distribution format, which features a simplified AI architecture and supports deployment anywhere.
 
 ### Benefits:
